@@ -17,4 +17,4 @@ My name is Edson and I'm fulstack javascript developer.
 
 ![For hire](https://img.shields.io/badge/For%20hire-Not%20available-red)
 
-![scaylart.dev](https://img.shields.io/badge/https%3A%2F%2Fscaylart.dev-in%20development-orange)
+[![scaylart.dev](https://img.shields.io/badge/https%3A%2F%2Fscaylart.dev-in%20development-orange)](https://scaylart.dev/)
