@@ -14,5 +14,3 @@ My name is Edson and I'm fulstack javascript developer.
 - 💻 Working with React/React-Native/NodeJS
 - 🌱 Learning Flutter
 - ✏ Fealing like a UI Design with Figma & AdobeXD
-
-![For hire](https://img.shields.io/badge/For%20hire-Not%20available-red)
