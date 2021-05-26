@@ -9,7 +9,7 @@
 
 ### Hey there! 🖖 Welcome to my humble profile
 
-My name is Edson and I'm fulstack javascript developer.
+My name is Edson and I'm fullstack javascript developer.
 
 - 💻 Working with React/React-Native/NodeJS
 - 🌱 Learning Flutter
