@@ -1,5 +1,4 @@
-# Edson Souza :shipit:
-
+## Hi there, I'm Edson
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edscaylart)](https://github.com/edscaylart)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-souza-99205535/)](https://www.linkedin.com/in/edson-souza-99205535/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/edscaylart)](https://twitter.com/edscaylart)
@@ -7,10 +6,19 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/edson_fsouza/)](https://www.instagram.com/edson_fsouza/)
 [![Discord Badge](https://img.shields.io/badge/-edscaylart%236866-7289DA?style=flat-square&logo=Discord&logoColor=white&link=edscaylart#6866)](edscaylart#6866)
 
-### Hey there! 🖖 Welcome to my humble profile
+### I'm a Husband, Father, Developer and whatever comes in mind time to time
 
-My name is Edson and I'm fullstack javascript developer.
+I am a versatilist and I can I can easily adapt to different hats... full stack developer, app developer, beginner designer, beginner game developer depending on what the project requires. I love learning new stacks and always improving to build good things with them.
 
-- 💻 Working with React/React-Native/NodeJS
-- 🌱 Learning Flutter
-- ✏ Fealing like a UI Design with Figma & AdobeXD
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>🧐 More About Me:</h2>
+<ul>
+<li>💻 I'm currently working at ATTO Sementes</li>
+<li>🌱 I'm currently improving deep on react-native</li>
+<li>💬 Brainstorm with me over tech, career, games, movies, tv shows and music</li>
+<li>📫 How to reach me: edsonsouza92.ti@gmail.com</li>
+  <li>🎮 Feel free to join my channel at <a href="https://discord.gg/R8g5KfD">Discord</a> to play with me and my friends</li>
+</ul>
+
+### Spotify Playing 🎧
+[![Spotify](https://edscaylart-github-spotify.vercel.app//api/spotify)](https://open.spotify.com/user/12145354220)
