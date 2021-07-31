@@ -20,5 +20,9 @@ I am a versatilist and I can I can easily adapt to different hats... full stack 
   <li>🎮 Feel free to join my channel at <a href="https://discord.gg/R8g5KfD">Discord</a> to play with me and my friends</li>
 </ul>
 
+<a href="https://www.buymeacoffee.com/edscaylart" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
+
 ### Spotify Playing 🎧
 [![Spotify](https://edscaylart-github-spotify.vercel.app//api/spotify)](https://open.spotify.com/user/12145354220)
