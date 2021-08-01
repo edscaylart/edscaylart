@@ -7,7 +7,7 @@
 
 ### I'm a Husband, Father, Developer and whatever comes in mind time to time
 
-I am a versatilist and I can I can easily adapt to different hats... full stack developer, app developer, beginner designer, beginner game developer depending on what the project requires. I love learning new stacks and always improving to build good things with them.
+I am a versatilist and I can easily adapt to different hats... full stack developer, app developer, beginner designer, beginner game developer depending on what the project requires. I love learning new stacks and always improving to build good things with them.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>🧐 More About Me:</h2>
