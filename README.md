@@ -23,15 +23,15 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 
-### Weekly development breakdown
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-JavaScript   21 hrs 42 mins  ██████████████░░░░░░░░░░░   55.48 % 
-TypeScript   17 hrs 6 mins   ███████████░░░░░░░░░░░░░░   43.73 % 
-JSON         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JavaScript   21 hrs 42 mins  ██████████████░░░░░░░░░░░   55.48 %
+TypeScript   17 hrs 6 mins   ███████████░░░░░░░░░░░░░░   43.73 %
+JSON         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 <!--END_SECTION:waka-->
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing
 [![Spotify](https://edscaylart-github-spotify.vercel.app//api/spotify)](https://open.spotify.com/user/12145354220)
