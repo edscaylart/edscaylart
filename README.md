@@ -23,5 +23,9 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 
+### Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Spotify Playing 🎧
 [![Spotify](https://edscaylart-github-spotify.vercel.app//api/spotify)](https://open.spotify.com/user/12145354220)
