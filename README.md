@@ -27,8 +27,8 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 59 mins    ████████████████████████▒   97.95 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript   1 hr 19 mins    ████████████████████████▒   97.01 % 
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 
