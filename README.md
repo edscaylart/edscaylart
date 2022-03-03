@@ -28,10 +28,10 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 32 mins    █████████████████░░░░░░░░   67.51 %
-JSON         18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+TypeScript   1 hr 38 mins    █████████████████▒░░░░░░░   69.27 %
+JSON         17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
 ```
 
 <!--END_SECTION:waka-->
