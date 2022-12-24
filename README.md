@@ -28,9 +28,8 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 52 mins  ███████████████████████░░   92.33 %
-Groovy       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TypeScript   9 hrs 25 mins   ████████████████████████░   96.00 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
