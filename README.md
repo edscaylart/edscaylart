@@ -28,12 +28,11 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 3 mins   █████████████████░░░░░░░░   68.08 %
-PHP          3 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-Delphi       2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-SQL          53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Git          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TypeScript   19 hrs 53 mins  ██████████████████░░░░░░░   71.45 %
+PHP          3 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Delphi       2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+SQL          53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
