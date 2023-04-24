@@ -13,7 +13,7 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
 <a href="https://app.daily.dev/edscaylart"><img align="right" src="https://github.com/edscaylart/edscaylart/blob/master/devcard.svg" width="330" alt="Edson Souza's Dev Card"/></a>
 <h2>🧐 More About Me:</h2>
 <ul>
-<li>💻 I'm currently working at Notis/us</li>
+<li>💻 I'm currently working at Innovative Research Technologies</li>
 <li>🌱 I'm currently improving deep on react-native</li>
 <li>💬 Brainstorm with me over tech, career, games, movies, tv shows and music</li>
 <li>📫 How to reach me: edsonsouza92.ti@gmail.com</li>
