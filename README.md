@@ -29,7 +29,7 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
 
 ```txt
 TypeScript   8 hrs 56 mins   ████████████████▓░░░░░░░░   66.19 %
-JSON         3 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+JSON         3 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   24.37 %
 JavaScript   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 SQL          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
