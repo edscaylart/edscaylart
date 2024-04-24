@@ -10,7 +10,7 @@
 I am a versatilist and I can easily adapt to different hats... full stack developer, app developer, beginner designer, beginner game developer depending on what the project requires. I love learning new stacks and always improving to build good things with them.
 
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-<a href="https://app.daily.dev/edscaylart"><img align="right" src="https://github.com/edscaylart/edscaylart/blob/master/devcard.svg" width="330" alt="Edson Souza's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/edscaylart"><img align="right" src="https://github.com/edscaylart/edscaylart/blob/master/devcard.svg" width="330" alt="Edson Souza's Dev Card"/></a>  -->
 <h2>🧐 More About Me:</h2>
 <ul>
 <li>💻 I'm currently working at Innovative Research Technologies</li>
