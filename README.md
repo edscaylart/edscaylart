@@ -30,7 +30,7 @@ I am a versatilist and I can easily adapt to different hats... full stack develo
 ```txt
 TypeScript   7 hrs 19 mins   ███████████████████████▒░   93.07 %
 JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
